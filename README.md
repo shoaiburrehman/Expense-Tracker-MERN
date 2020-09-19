@@ -2,7 +2,7 @@
 
 ![Expense Tracker](https://user-images.githubusercontent.com/39486938/93667316-756bd780-fa9e-11ea-8767-02a1bf0a7319.png)
 
-* I took this repository from React app to full stack MERN app by adding a backend API with Express and MongoDB
+* I took this repository from [https://github.com/shoaiburrehman/Expense-Tracker] (#React App) to full stack MERN app by adding a backend API with Express and MongoDB
 
 ## To Run this App
 
